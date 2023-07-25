@@ -10,4 +10,3 @@ jobs:
       - name: sayHi
         run: echo "Hi"
       - name: sayMyName
-        run: echo "${{ github.actor }}"
